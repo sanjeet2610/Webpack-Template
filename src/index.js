@@ -1,4 +1,2 @@
 // index.js
-import "./style.css";
-
-console.log(greeting);
+import './style.css';
